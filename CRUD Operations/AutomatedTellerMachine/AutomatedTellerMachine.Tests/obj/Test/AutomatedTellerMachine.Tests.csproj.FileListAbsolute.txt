@@ -1,0 +1,93 @@
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\AutomatedTellerMachine.Tests.dll.config
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\AutomatedTellerMachine.Tests.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\AutomatedTellerMachine.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\EntityFramework.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\EntityFramework.SqlServer.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Web.Infrastructure.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Newtonsoft.Json.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.Helpers.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.Mvc.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.Razor.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.WebPages.Deployment.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.WebPages.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.WebPages.Razor.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.AspNet.Identity.Core.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.Optimization.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Owin.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Security.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Security.Cookies.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Security.Facebook.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Security.OAuth.dll
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\AutomatedTellerMachine.pdb
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\EntityFramework.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\EntityFramework.SqlServer.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Newtonsoft.Json.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.Helpers.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.Mvc.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.Razor.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.WebPages.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.WebPages.Deployment.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.WebPages.Razor.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.AspNet.Identity.Core.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.Optimization.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Security.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Security.Cookies.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Security.Facebook.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Security.OAuth.xml
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\obj\Test\AutomatedTellerMachine.Tests.csprojResolveAssemblyReference.cache
+C:\Users\msullivan\Desktop\Lynda\Exercise Files\Ch8\AutomatedTellerMachine_final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\obj\Test\AutomatedTellerMachine.Tests.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\AutomatedTellerMachine.Tests.dll.config
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\AutomatedTellerMachine.Tests.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\AutomatedTellerMachine.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\EntityFramework.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\EntityFramework.SqlServer.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Web.Infrastructure.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Newtonsoft.Json.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.Helpers.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.Mvc.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.Razor.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.WebPages.Deployment.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.WebPages.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.WebPages.Razor.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.Optimization.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.AspNet.Identity.Core.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.AspNet.Identity.Owin.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Security.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Owin.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Security.Cookies.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Security.Facebook.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Host.SystemWeb.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Security.OAuth.dll
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\AutomatedTellerMachine.pdb
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\EntityFramework.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\EntityFramework.SqlServer.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Newtonsoft.Json.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.Helpers.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.Mvc.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.Razor.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.WebPages.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.WebPages.Deployment.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.WebPages.Razor.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\System.Web.Optimization.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.AspNet.Identity.Core.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.AspNet.Identity.Owin.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Security.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Security.Cookies.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Security.Facebook.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Host.SystemWeb.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Test\Microsoft.Owin.Security.OAuth.xml
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\obj\Test\AutomatedTellerMachine.Tests.csprojResolveAssemblyReference.cache
+E:\Interviews\Interview Project\ASP NET MVC 5\Exercise Files\Ch9\Final\AutomatedTellerMachine\AutomatedTellerMachine.Tests\obj\Test\AutomatedTellerMachine.Tests.dll
